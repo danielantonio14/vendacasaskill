@@ -1,4 +1,7 @@
 import React from 'react'
+import Image from 'next/image'
+import logo from '@/assets/images/logo-white.png'
+import logo from '@/assets/images/logo-white.png'
 
 const Navbar = () => {
   return (
